@@ -1,6 +1,15 @@
-# MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation
+# MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation (WACV 2024)
 
+### 📝[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kang_MetaSeg_MetaFormer-Based_Global_Contexts-Aware_Network_for_Efficient_Semantic_Segmentation_WACV_2024_paper.pdf)
+
+> #### Beoungwoo Kang\*, Seunghun Moon\*, Yubin Cho\*, Hyunwoo Yu\*, Suk-ju Kang<sup>&dagger;</sup>
+> \* Equal contribution, <sup>&dagger;</sup>Correspondence
+
+> Sogang University
+
+This repository contains the official Pytorch implementation of training & evaluation code for MetaSeg.
 The code is based on [MMSegmentaion v0.24.1](https://github.com/open-mmlab/mmsegmentation/tree/v0.24.1).
+![metaseg](https://github.com/user-attachments/assets/545c2aa4-82fe-48de-951a-3e8b091a6225)
 
 ## Installation
 For install and data preparation, please refer to the guidelines in [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/v0.24.1/docs/en/get_started.md#installation).
