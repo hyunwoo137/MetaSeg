@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_test.sh local_configs/metaseg/tin
 ```
 <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
-      <h2 class="title">BibTeX</h2>
+      <h2 class="title">Citation</h2>
       <pre><code>@inproceedings{kang2024metaseg,
   title={MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation},
   author={Kang, Beoungwoo and Moon, Seunghun and Cho, Yubin and Yu, Hyunwoo and Kang, Suk-Ju},
