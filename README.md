@@ -21,7 +21,7 @@ python setup.py develop
 ```
 
 ## Training
-Download backbone [MSCAN-T & MSCAN-B](https://cloud.tsinghua.edu.cn/d/c15b25a6745946618462/) pretrained weights.
+Download backbone [(MSCAN-T & MSCAN-B)](https://cloud.tsinghua.edu.cn/d/c15b25a6745946618462/) pretrained weights.
 
 Put them in a folder ```pretrain/```.
 
